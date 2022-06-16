@@ -17,7 +17,7 @@
 
 <h2 align="center">You can find me at</h2>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/r-fasich-aulia-pratama-iman-84054a242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QVwSTpKQASjg3FQMalRZw%3D%3D">
+<a href="https://www.linkedin.com/in/r-fasich-aulia-pratama-iman-84054a242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QVwSTpKQASjg3FQMalRZw%3D%3D">
 <img height="35em"  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></img></a>
 <a href="https://instagram.com/r.fasich24">
 <img height="35em"  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img></a>
