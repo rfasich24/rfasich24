@@ -2,7 +2,7 @@
 <h1 align="center">👋HELLO EVERYONE👋</h1>
 <p align="center">I'm a 4 th semester student at the University of Jember. I have a passion in frontend developer</p>
 
-<h1 align="center">My Stats</h1>
+<!-- <h1 align="center">My Stats</h1> -->
 <a href="https://github.com/rfasich24">
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfasich24&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"></img>
@@ -15,7 +15,7 @@
 <!--### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)-->
 
-<h1 align="center">You can find me at</h1>
+<h2 align="center">You can find me at</h2>
 <p align="center">
 <img height="35em" href="https://linkedin.com/in/https://www.linkedin.com/in/r-fasich-aulia-pratama-iman-84054a242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8QVwSTpKQASjg3FQMalRZw%3D%3D" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></img>
 <img height="35em" href="https://instagram.com/r.fasich24" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></img>
