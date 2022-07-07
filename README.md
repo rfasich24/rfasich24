@@ -1,6 +1,6 @@
 
 <h1 align="center">👋HELLO EVERYONE👋</h1>
-<p align="center">I'm a 4 th semester student at the University of Jember. I have a passion in frontend developer</p>
+<p align="center">My name is Fasich, i'm a 5 th semester Informatics student at the University of Jember. I'm a student who has an interest in web development, especially front-end web development. I also have a hobby in design, especially UI UX design</p>
 
 <!-- <h1 align="center">My Stats</h1> -->
 <a href="https://github.com/rfasich24">
