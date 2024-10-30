@@ -3,14 +3,14 @@
 <p align="center">My name is Fasich, i'm an Informatics student at the University of Jember. I'm a student who has an interest in web development, especially front-end web development. I also have a hobby in design, especially UI UX design</p>
 
 <!-- <h1 align="center">My Stats</h1> -->
-<a href="https://github.com/rfasich24">
+<!--<a href="https://github.com/rfasich24">
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfasich24&theme=algolia&hide_border=false&include_all_commits=true&count_private=true"></img>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfasich24&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></img>
 <!--<br>![](https://github-readme-stats.vercel.app/api?username=rfasich24&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rfasich24&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rfasich24&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-</p></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rfasich24&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p></a>-->
 
 <!--### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)-->
